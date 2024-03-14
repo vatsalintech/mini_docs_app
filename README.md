@@ -1,8 +1,14 @@
-# React + Vite
+# Mini docs app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a simple interactive frontend project built using React, Vite, and Tailwind CSS. The project consists of various React components for demonstration purposes, the cards in the application can be interacted with (done using framer-motion package). The app serves as a starting point for building modern web applications with a fast development environment and responsive UI design.
 
-Currently, two official plugins are available:
+![image](https://github.com/vatsalintech/mini_docs_app/assets/156601691/cb150f42-d727-4afb-a0a2-a465f744aebd)
+![image](https://github.com/vatsalintech/mini_docs_app/assets/156601691/ef75bef1-961f-4191-92a9-9cac30c9e78b)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Setup
+
+Clone the project and execute the following commands to run the project: <br>
+1] npm install <br>
+2] npm run dev
+
